@@ -1,0 +1,39 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ body p{
+    color: navy;
+    font-family: "Comic Sans";
+    font-weight: 20px;
+    text-decoration: underline;
+ }
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+    display: inline-block;
+    border: 5px solid black;
+    border-radius: 30px;
+    background-color: lightblue;
+    padding: 10px;
+ }
+
+ li{
+    background-color: lightcyan;
+    padding: 13px;
+    border-width: 8px;
+ }
+
+ img{
+    width: 20%;
+    padding: 13px;
+    margin: 0;
+    border: 8px dashed red;
+ }
